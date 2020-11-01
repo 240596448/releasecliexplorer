@@ -7,4 +7,4 @@
 		.ЗависитОт("fs",)
 		.ВключитьФайл("src")
 		.ВключитьФайл("README.md")
-		.ИсполняемыйФайл("src/cmd/releasecliexplorer.os");
+		.ИсполняемыйФайл("src/cmd/ReleaseCliExplorer.os");
