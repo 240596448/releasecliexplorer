@@ -14,6 +14,8 @@
 
 ![doc/stdout2.png](doc/stdout2.png)
 
+![doc/stdout3.png](doc/stdout3.png)
+
 - [Справка по командам](doc/help.md)
 
 - [Примеры вывода консоли](doc/console_output.md)
