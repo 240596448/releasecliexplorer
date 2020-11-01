@@ -1,4 +1,4 @@
-# Консольная утилита для обзора и скачивания с сайта releases.1c.ru
+# Консольная утилита для навигации по продуктам и скачивания дистибутивов с сайта releases.1c.ru
 
 Запускается командой: `releasecliexplorer.bat`(windows) или `releasecliexplorer`(linux)
 
@@ -10,7 +10,7 @@
 
 Реализован цветной интерфейс.
 
-![doc/stdout3.png](doc/stdout3.png)
+![doc/stdout1.png](doc/stdout1.png)
 
 ![doc/stdout2.png](doc/stdout2.png)
 
